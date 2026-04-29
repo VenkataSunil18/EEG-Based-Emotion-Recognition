@@ -159,7 +159,7 @@ Department of CSE (Data Science)
 
 bash
 # Clone repository
-git clone https://github.com/your-username/eeg-emotion-recognition.git
+git clone https://github.com/VenkataSunil18/EEG-Based-Emotion-Recognition.git
 
 # Go to project folder
 cd eeg-emotion-recognition
